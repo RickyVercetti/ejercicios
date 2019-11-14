@@ -19,7 +19,7 @@ public class segundo{
 		System.out.println("Genial! ahora escribe el texto que te de la gana:");
 		texto = sc.nextLine();
 		
-		System.out.println("Vale, ya tengo todo");
+		System.out.println("Vale, ya lo tengo todo");
 		
 		
 		texto = modificacionTexto(numero,texto);
